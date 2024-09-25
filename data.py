@@ -26,5 +26,5 @@ c = somme(5,7)
 h = high()
 h.higher()
 h.file()
-print(h.__b)
+
 
